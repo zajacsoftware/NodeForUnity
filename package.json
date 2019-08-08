@@ -1,0 +1,17 @@
+{
+  "name": "webserverforunity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mime-types": "^2.1.24",
+    "nodemon": "^1.19.1",
+    "uglifyjs-webpack-plugin": "^2.1.2"
+  }
+}
